@@ -1,5 +1,4 @@
-![Contador de visitas](https://img.shields.io/github/stars/tech-ingrid/tech-ingrid?style=for-the-badge&color=BAA1F7&logo=github)
-
+![Visualizações](https://img.shields.io/github/views/tech-ingrid/tech-ingrid?style=for-the-badge&color=BAA1F7)
 
 <h1 align="center">
   ✨ Olá, eu sou Ingrid Santos! ✨
