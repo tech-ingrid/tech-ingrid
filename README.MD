@@ -61,5 +61,6 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=tech-ingrid" alt="visitor badge"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tech-ingrid&count_bg=%23BAA1F7&title_bg=%237965DF&icon=&icon_color=%23FFFFFF&title=visitas&edge_flat=false"/>
 </p>
+
