@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=tech-ingrid.tech-ingrid" alt="visitor badge"/>
+</p>
 <h1 align="center">
   ✨ Olá, eu sou Ingrid Santos! ✨
 </h1>
@@ -54,4 +57,8 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BAA1F7&height=150&section=footer"/>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=tech-ingrid.tech-ingrid" alt="visitor badge"/>
 </p>
