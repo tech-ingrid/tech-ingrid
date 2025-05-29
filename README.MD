@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tech-ingrid&count_bg=%23BAA1F7&title_bg=%237965DF&icon=&icon_color=%23FFFFFF&title=visitas&edge_flat=false"/>
+  <img src="https://api.countapi.xyz/hit/tech-ingrid/visitas" alt="Contador de visitas"/>
 </p>
+
 
 <h1 align="center">
   ✨ Olá, eu sou Ingrid Santos! ✨
