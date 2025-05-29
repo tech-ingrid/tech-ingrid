@@ -2,12 +2,12 @@
 <h1 align="center">
   ✨ Olá, eu sou Ingrid Santos! ✨
 </h1>
-
+![GitHub Views](https://komarev.com/ghpvc/?username=techingrid&color=A259FF&label=VISUALIZAÇÕES&style=flat-square)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BAA1F7&height=200&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontColor=FFFFFF&fontSize=30&animation=twinkling" />
 </p>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=techingrid&color=A259FF&label=VISUALIZAÇÕES&style=flat-square)
+
 
 ---
 
