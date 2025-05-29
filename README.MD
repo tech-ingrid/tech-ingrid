@@ -1,51 +1,57 @@
-<h1 align="center">Hello World 🌙✨</h1>
+<h1 align="center">
+  ✨ Olá, eu sou Ingrid Santos! ✨
+</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B5DE5&height=150&section=header&text=tech-ingrid&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BAA1F7&height=200&section=header&text=Bem-vind@%20ao%20meu%20GitHub!&fontColor=FFFFFF&fontSize=30&animation=twinkling" />
 </p>
 
 ---
 
 ### 🌸 Sobre mim
-- 🎨 Criativa, curiosa e apaixonada por tecnologia.
-- ☁️ Estudante de Cloud Computing e Desenvolvimento Web.
-- 🌈 Explorando o mundo do design (Figma) e da AWS.
-- 🦋 Sempre aprendendo coisas novas.
+
+- 💜 Explorando o universo da tecnologia, criatividade e inovação.
+- 🎨 Apaixonada por unir design, desenvolvimento e nuvem.
+- ☁️ Focada em aprender Computação em Nuvem, Desenvolvimento Web e UX/UI.
+- 🌱 Atualmente aprendendo: AWS, Front-end, Banco de Dados e Python.
 
 ---
 
-### 💻 Tecnologias que uso
-<div style="display: flex; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-</div>
-
----
-
-### ⏳ Status atual
-- 🎧 Ouvindo: Chill Vibes  
-- 🌙 Mood: Focada, mas com sono  
-- ☁️ Projeto atual: Portfólio + AWS Studies  
-
----
-
-### ✅ To do list
-- [x] Aprender mais sobre AWS  
-- [x] Praticar HTML e CSS  
-- [ ] Criar um projeto pessoal  
-- [ ] Aumentar conexões no LinkedIn  
-
----
-
-### 📫 Contato
-- 💌 contato.techingrid@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tech-ingrid)  
-- 💻 [GitHub](https://github.com/tech-ingrid)  
+### 🛠️ Tecnologias que uso
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B5DE5&height=120&section=footer"/>
+  <img src="https://img.shields.io/badge/Python-BAA1F7?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-E5D4FF?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-BAA1F7?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-C9B6F1?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-E5D4FF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-BAA1F7?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+### 💖 Onde me encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tech-ingrid" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-BAA1F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:contato.techingrid@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-C9B6F1?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tech-ingrid&show_icons=true&theme=tokyonight&title_color=BAA1F7&icon_color=BAA1F7"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-ingrid&layout=compact&langs_count=7&theme=tokyonight&title_color=BAA1F7"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BAA1F7&height=150&section=footer"/>
 </p>
