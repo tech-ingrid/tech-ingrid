@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=tech-ingrid.tech-ingrid" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=tech-ingrid" alt="visitor badge"/>
 </p>
 <h1 align="center">
   ✨ Olá, eu sou Ingrid Santos! ✨
