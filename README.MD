@@ -8,6 +8,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BAA1F7&height=200&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontColor=FFFFFF&fontSize=30&animation=twinkling" />
 </p>
 
+<p align="center">
+  <img src="https://storage.ko-fi.com/cdn/useruploads/post/f9d344fe-3715-41b8-8996-6d844cac422b_scrivaniapreview.gif" alt="Desenho Tech" width="400" />
+</p>
 
 
 ---
