@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://api.countapi.xyz/hit/tech-ingrid" alt="contador de visitas"/>
-</p>
+![Contador de visitas](https://img.shields.io/github/stars/tech-ingrid/tech-ingrid?style=for-the-badge&color=BAA1F7&logo=github)
 
 
 <h1 align="center">
