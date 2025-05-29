@@ -3,8 +3,13 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BAA1F7&height=200&section=header&text=✨%20Eu%20sou%20Ingrid%20Santos%20✨&fontColor=FFFFFF&fontSize=30&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BAA1F7&height=200&section=header" />
 </p>
+
+<h1 align="center">
+  ✨ Olá, eu sou Ingrid Santos! ✨
+</h1>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Desenho Tech" width="400" />
