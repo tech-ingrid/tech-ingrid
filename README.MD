@@ -59,8 +59,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BAA1F7&height=150&section=footer"/>
 </p>
 
-<p align="center">
-  <img src="https://api.countapi.xyz/hit/tech-ingrid" alt="contador de visitas"/>
-</p>
 
 
