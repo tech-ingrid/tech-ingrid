@@ -7,10 +7,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BAA1F7&height=200&section=header&text=Bem-vind@%20ao%20meu%20GitHub!&fontColor=FFFFFF&fontSize=30&animation=twinkling" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Panda dançando" width="300"/>
-</p>
-
 
 ---
 
