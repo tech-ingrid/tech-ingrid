@@ -1,11 +1,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=techingrid&label=VISUALIZAÇÕES&color=A259FF&style=flat-square" alt="Profile views"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A259FF&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;" alt="Typing SVG" /> </p>
 
-<h1 align="center">
-  ✨ Olá, eu sou Ingrid Santos! ✨
-</h1>
+
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BAA1F7&height=200&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontColor=FFFFFF&fontSize=30&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BAA1F7&height=200&section=header&text=✨%20Eu%20sou%20Ingrid%20Santos%20✨&fontColor=FFFFFF&fontSize=30&animation=twinkling" />
 </p>
 
 <p align="center">
