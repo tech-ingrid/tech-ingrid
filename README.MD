@@ -7,9 +7,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BAA1F7&height=200&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontColor=FFFFFF&fontSize=30&animation=twinkling" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Desenho Tech" width="400" />
-</p>
+![GitHub Views](https://komarev.com/ghpvc/?username=techingrid&color=A259FF&label=VISUALIZAÇÕES&style=flat-square)
 
 ---
 
