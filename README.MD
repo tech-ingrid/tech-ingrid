@@ -1,5 +1,6 @@
-![Visualizações](https://img.shields.io/github/views/tech-ingrid/tech-ingrid?style=for-the-badge&color=BAA1F7)
-
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tech-ingrid&count_bg=%23BAA1F7&title_bg=%237965DF&icon=&icon_color=%23FFFFFF&title=visitas&edge_flat=false"/>
+</p>
 
 <h1 align="center">
   ✨ Olá, eu sou Ingrid Santos! ✨
