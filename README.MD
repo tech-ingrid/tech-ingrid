@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://api.countapi.xyz/hit/tech-ingrid/tech-ingrid" alt="contador de visitas"/>
+  <img src="https://api.countapi.xyz/hit/tech-ingrid" alt="contador de visitas"/>
 </p>
 
 
@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://api.countapi.xyz/hit/tech-ingrid/tech-ingrid" alt="contador de visitas"/>
+  <img src="https://api.countapi.xyz/hit/tech-ingrid" alt="contador de visitas"/>
 </p>
 
 
