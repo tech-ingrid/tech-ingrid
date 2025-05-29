@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://api.countapi.xyz/hit/tech-ingrid/visitas" alt="Contador de visitas"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tech-ingrid&show_icons=true&theme=tokyonight)
+
 
 
 <h1 align="center">
