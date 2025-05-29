@@ -1,5 +1,4 @@
-![GitHub Views](https://komarev.com/ghpvc/?username=techingrid&color=A259FF&label=VISUALIZAÇÕES&style=flat-square)
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=techingrid&label=VISUALIZAÇÕES&color=A259FF&style=flat-square" alt="Profile views"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A259FF&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;Seja+bem-vindo(a)+ao+meu+GitHub;Apaixonada+por+tecnologia+e+cria%C3%A7%C3%A3o;Buscando+meu+primeiro+emprego+em+TI" alt="Typing SVG" /> </p>
 
 <h1 align="center">
   ✨ Olá, eu sou Ingrid Santos! ✨
