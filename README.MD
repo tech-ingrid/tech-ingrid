@@ -1,6 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tech-ingrid&show_icons=true&theme=tokyonight)
-
-
 
 <h1 align="center">
   ✨ Olá, eu sou Ingrid Santos! ✨
