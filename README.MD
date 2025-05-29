@@ -1,76 +1,51 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BAA1F7&height=200&section=header&text=tech-ingrid.exe&fontColor=FFFFFF&fontSize=30&animation=twinkling" />
-</p>
-
-<h1 align="center">✧･ﾟ: *✧･ﾟ:* Ingrid Santos *:･ﾟ✧*:･ﾟ✧</h1>
+<h1 align="center">Hello World 🌙✨</h1>
 
 <p align="center">
- 🦄 UX/UI | ☁️ Cloud Computing | 💻 Web Dev <br>
- 🎧 Always coding with some good music
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B5DE5&height=150&section=header&text=tech-ingrid&fontSize=40&fontColor=ffffff"/>
 </p>
 
 ---
 
-## 🗓️ Schedule
-
-| Time | Monday | Tuesday | Wednesday | Thursday | Friday |
-|------|--------|---------|-----------|----------|--------|
-| 10AM | ☕ Wake Up | ☕ Wake Up | ☕ Wake Up | ☕ Wake Up | ☕ Wake Up |
-| 11AM | Code 💻 | Study 📚 | Design 🎨 | AWS ☁️ | Code 💻 |
-| 1PM  | Lunch 🍜 | Lunch 🍜 | Lunch 🍜 | Lunch 🍜 | Lunch 🍜 |
-| 2PM  | Projects 🌟 | Figma 🎨 | Projects 🌟 | GitHub 🚀 | Projects 🌟 |
-| 6PM  | Relax 🎶 | Relax 🎶 | Relax 🎶 | Relax 🎶 | Relax 🎶 |
+### 🌸 Sobre mim
+- 🎨 Criativa, curiosa e apaixonada por tecnologia.
+- ☁️ Estudante de Cloud Computing e Desenvolvimento Web.
+- 🌈 Explorando o mundo do design (Figma) e da AWS.
+- 🦋 Sempre aprendendo coisas novas.
 
 ---
 
-## ✔️ To-Do List
-
-- [x] Atualizar README  
-- [ ] Finalizar projeto no Figma  
-- [ ] Estudar AWS  
-- [ ] Criar um projeto no GitHub  
-- [ ] Refatorar portfólio  
+### 💻 Tecnologias que uso
+<div style="display: flex; justify-content: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
+</div>
 
 ---
 
-## 🎨 Skills
+### ⏳ Status atual
+- 🎧 Ouvindo: Chill Vibes  
+- 🌙 Mood: Focada, mas com sono  
+- ☁️ Projeto atual: Portfólio + AWS Studies  
+
+---
+
+### ✅ To do list
+- [x] Aprender mais sobre AWS  
+- [x] Praticar HTML e CSS  
+- [ ] Criar um projeto pessoal  
+- [ ] Aumentar conexões no LinkedIn  
+
+---
+
+### 📫 Contato
+- 💌 contato.techingrid@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tech-ingrid)  
+- 💻 [GitHub](https://github.com/tech-ingrid)  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-BAA1F7?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-E5D4FF?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-BAA1F7?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-C9B6F1?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-E5D4FF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-BAA1F7?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
----
-
-## 🎧 Now Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=BAA1F7&bar_color_cover=false"/>
-</p>
-
----
-
-## 🧭 Quick Links
-
-- 💜 [LinkedIn](https://www.linkedin.com/in/tech-ingrid)  
-- 🐙 [GitHub](https://github.com/tech-ingrid)  
-- 📧 contato.techingrid@gmail.com  
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tech-ingrid&show_icons=true&theme=tokyonight&title_color=BAA1F7&icon_color=BAA1F7"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-ingrid&layout=compact&langs_count=7&theme=tokyonight&title_color=BAA1F7"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BAA1F7&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B5DE5&height=120&section=footer"/>
 </p>
