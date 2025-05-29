@@ -1,6 +1,4 @@
-<p align="center">
-  ![Visualizações](https://img.shields.io/github/views/tech-ingrid/tech-ingrid?style=for-the-badge&color=BAA1F7)
-</p>
+![Visualizações](https://img.shields.io/github/views/tech-ingrid/tech-ingrid?style=for-the-badge&color=BAA1F7)
 
 
 <h1 align="center">
