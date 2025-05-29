@@ -1,23 +1,39 @@
-<h1 align="center">
-  ✨ Olá, eu sou Ingrid Santos! ✨
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BAA1F7&height=200&section=header&text=tech-ingrid.exe&fontColor=FFFFFF&fontSize=30&animation=twinkling" />
+</p>
+
+<h1 align="center">✧･ﾟ: *✧･ﾟ:* Ingrid Santos *:･ﾟ✧*:･ﾟ✧</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BAA1F7&height=200&section=header&text=Bem-vind@%20ao%20meu%20GitHub!&fontColor=FFFFFF&fontSize=30&animation=twinkling" />
+ 🦄 UX/UI | ☁️ Cloud Computing | 💻 Web Dev <br>
+ 🎧 Always coding with some good music
 </p>
 
 ---
 
-### 🌸 Sobre mim
+## 🗓️ Schedule
 
-- 💜 Explorando o universo da tecnologia, criatividade e inovação.
-- 🎨 Apaixonada por unir design, desenvolvimento e nuvem.
-- ☁️ Focada em aprender Computação em Nuvem, Desenvolvimento Web e UX/UI.
-- 🌱 Atualmente aprendendo: AWS, Front-end, Banco de Dados e Python.
+| Time | Monday | Tuesday | Wednesday | Thursday | Friday |
+|------|--------|---------|-----------|----------|--------|
+| 10AM | ☕ Wake Up | ☕ Wake Up | ☕ Wake Up | ☕ Wake Up | ☕ Wake Up |
+| 11AM | Code 💻 | Study 📚 | Design 🎨 | AWS ☁️ | Code 💻 |
+| 1PM  | Lunch 🍜 | Lunch 🍜 | Lunch 🍜 | Lunch 🍜 | Lunch 🍜 |
+| 2PM  | Projects 🌟 | Figma 🎨 | Projects 🌟 | GitHub 🚀 | Projects 🌟 |
+| 6PM  | Relax 🎶 | Relax 🎶 | Relax 🎶 | Relax 🎶 | Relax 🎶 |
 
 ---
 
-### 🛠️ Tecnologias que uso
+## ✔️ To-Do List
+
+- [x] Atualizar README  
+- [ ] Finalizar projeto no Figma  
+- [ ] Estudar AWS  
+- [ ] Criar um projeto no GitHub  
+- [ ] Refatorar portfólio  
+
+---
+
+## 🎨 Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-BAA1F7?style=for-the-badge&logo=python&logoColor=white"/>
@@ -30,20 +46,23 @@
 
 ---
 
-### 💖 Onde me encontrar
+## 🎧 Now Playing
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tech-ingrid" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-BAA1F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:contato.techingrid@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-C9B6F1?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=BAA1F7&bar_color_cover=false"/>
 </p>
 
 ---
 
-### 📊 Estatísticas
+## 🧭 Quick Links
+
+- 💜 [LinkedIn](https://www.linkedin.com/in/tech-ingrid)  
+- 🐙 [GitHub](https://github.com/tech-ingrid)  
+- 📧 contato.techingrid@gmail.com  
+
+---
+
+## 📊 Stats
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tech-ingrid&show_icons=true&theme=tokyonight&title_color=BAA1F7&icon_color=BAA1F7"/>
