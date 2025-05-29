@@ -1,4 +1,5 @@
-![GitHub Views](https://komarev.com/ghpvc/?username=techingrid&color=A259FF&label=VISUALIZAÇÕES&style=flat-square)
+![GitHub Views](https://komarev.com/ghpvc/?username=techingrid)
+
 <h1 align="center">
   ✨ Olá, eu sou Ingrid Santos! ✨
 </h1>
